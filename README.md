@@ -1,4 +1,9 @@
+## Diaries of a technical guru
+
+This is the space of my own thoughts on software, self development, continuous learning, and much more.
+
 ## Welcome to GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/shereefsakr/shereefsakr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
